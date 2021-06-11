@@ -32,5 +32,5 @@ ujson==4.0.2
 urllib3==1.26.5
 uvicorn==0.14.0
 uvloop==0.15.2
-websockets==8.1
+websockets==9.1
 yarl==1.6.3
